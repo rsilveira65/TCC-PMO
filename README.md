@@ -1,4 +1,4 @@
-# Pós graduação em Gestão de Projetos e Business Inteligence
+# Pós graduação em Gestão de Projetos e Business Intelligence
 ## Trabalho de Conclusão de Curso
 
 ### TODO'S
